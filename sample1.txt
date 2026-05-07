@@ -1,1 +1,1 @@
-your push is successfull.
+your merge is successfull.
